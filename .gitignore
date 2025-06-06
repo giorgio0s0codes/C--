@@ -1,0 +1,34 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Debug and build folders
+build/
+bin/
+debug/
+release/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# CLion or JetBrains IDEs
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
