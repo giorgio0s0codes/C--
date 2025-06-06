@@ -32,3 +32,6 @@ Makefile
 # Logs and temporary files
 *.log
 *.tmp
+
+# macOS debug symbol folders
+*.dSYM/
